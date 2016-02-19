@@ -1,4 +1,4 @@
-# Search
+# Search:
  AutoHotkey Version: 1.1.23.01
  Language:       English
  Platform:       Windows 10
@@ -19,7 +19,7 @@
        Hitting the enter key when the search combobox is expanded does not begin search, 
        in this case the enter key must be hit 2 times. (I'm looking for a fix.)
        
-# ===== Function SearchGoogle: ====
+# Function SearchGoogle:
  Author: Wizard Zedd
  Search Google: originally just for searching google, but was further expanded to youtube
                  by using the /y option or putting "youtube" in the searchquery. This function
