@@ -45,4 +45,3 @@
  RunRes:
        True launches the first link
  Returns: A list of links seperated by newlines(`n). The first link is to the search page.
- ==========================================================================================
