@@ -3,7 +3,7 @@
  	Language:       English
  	Platform:       Windows 10
  	Author:         WizardZedd
- 	Version:        0.9.2
+ 	Version:        0.9.2.1
 
 # Script Function:
 	    Performs searches with various options using the SearchGoogle Function (documentation below).
