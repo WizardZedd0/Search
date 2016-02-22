@@ -68,7 +68,7 @@ SearchGoogle(searchQuery, runSearch:=true, runRes:=false)
 
       ie.Navigate(searchURL)
       while(ie.busy || ie.document.readyState !="complete")
-         continue
+         sleep, 100             ; Hopefully fixes readyState error
       res:=ie.document.getElementsByClassName(className)
       list .= searchURL "`n"
       while(a_index < res.length, i:=a_index-1) {
